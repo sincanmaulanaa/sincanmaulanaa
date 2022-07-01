@@ -31,7 +31,7 @@
   <a href="https://twitter.com/@sincan_maulana" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="@sincanmaulana" height="30" width="40" /></a>
-  <a href="https://fb.com/Sincan-Maulana" target="blank"><img align="center"
+  <a href="https://fb.com/sincanmaulanaa" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="sincanmaulanaa" height="30" width="40" /></a>
 </p>

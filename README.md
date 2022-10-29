@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&duration=3000&pause=500&color=000000&center=true&width=435&lines=I'm+Sincan+Maulana;a+Frontend+Developer;a+Programmer;a+College+Student" alt="Typing SVG" /></a>
+<a href="https://github.com/sincanmaulanaa"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&duration=3000&pause=500&color=000000&center=true&width=435&lines=I'm+Sincan+Maulana;a+Frontend+Developer;a+Programmer;a+College+Student" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">I love to solve the problem and implement idea with design and code. Interest to explore <br>different styles of design and follow the design and technology trends for frontend development.</p>

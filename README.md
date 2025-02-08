@@ -8,5 +8,8 @@
 <p align="center"><a href="https://www.twitter.com/sincan_maulana"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sincanmaulanaa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sincan.mln/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 <div align="center">
-<a href="https://github.com/sincanmaulanaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sincanmaulanaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sincan's github stats" /></a><a href="https://github.com/sincanmaulanaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincanmaulanaa&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/sincanmaulanaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sincanmaulanaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sincanmaulanaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </div>
